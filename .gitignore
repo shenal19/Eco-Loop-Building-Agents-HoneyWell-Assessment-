@@ -1,0 +1,9 @@
+logs/*.csv
+logs/baseline/
+logs/ai/
+__pycache__/
+*.pyc
+building/5ZoneAirCooled.idf
+building/5ZoneAirCooled_modified.idf
+building/weather.epw
+*.exe
